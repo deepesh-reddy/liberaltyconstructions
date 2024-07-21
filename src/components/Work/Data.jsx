@@ -203,19 +203,19 @@ export const projectsData = [
     {
         id: 29,
         image: IR_1,
-        title: "Layout Plans",
+        title: "Irrigation Projects",
         category: "Irrigation",
     },
     {
         id: 30,
         image: IR_2,
-        title: "Layout Plans",
+        title: "Irrigation Projects",
         category: "Irrigation",
     },
     {
         id: 31,
         image: IR_3,
-        title: "Layout Plans",
+        title: "Irrigation Projects",
         category: "Irrigation",
     },
 ];
