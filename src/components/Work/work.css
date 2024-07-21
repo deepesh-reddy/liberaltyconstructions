@@ -206,8 +206,10 @@
         padding-bottom: 3rem;
     }
     .work__card {
-        width: 280px; /* Slightly smaller on medium screens */
-        height: 550px;
+        width: 90%; /* Make the card take up 90% of the container width */
+        max-width: 280px; /* Set a maximum width to maintain consistency */
+        margin-right: 0;
+        margin-left: 0;
     }
 }  
 
